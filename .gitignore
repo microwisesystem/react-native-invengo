@@ -1,0 +1,17 @@
+gradle
+gradlew
+gradlew.bat
+.gradle
+.DS_Store
+.node_modules
+package-lock.json
+build/
+.idea
+.gradle
+local.properties
+*.iml
+npm-debug.log
+yarn-error.log
+.classpath
+.project
+.settings

@@ -1,0 +1,10 @@
+{
+  "name": "react-native-invengo",
+  "version": "1.0.0",
+  "description": "Invengo RFID Device",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  }
+}
