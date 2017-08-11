@@ -11,7 +11,7 @@ react-native link react-native-invengo
 
 ```js
 import { DeviceEventEmitter } from 'react-native';
-import { RFID } from "react-native-invengo";
+import RFID from "react-native-invengo";
 
 // 开始连接
 RFID.connect((isSuccess) => {
