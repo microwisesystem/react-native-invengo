@@ -3,11 +3,12 @@
 ## 安装
 
 ```
-# add local folder or github repo
-git clone git@github.com:microwisesystem/react-native-invengo.git
-yarn add file:/path/to/react-native-invengo
+# intall package
+yarn add https://github.com/microwisesystem/react-native-invengo.git
 
-# yarn add git@github.com:microwisesystem/react-native-invengo.git
+# or add local folder
+# git clone https://github.com/microwisesystem/react-native-invengo.git
+# yarn add file:/path/to/react-native-invengo
 
 react-native link react-native-invengo
 ```
